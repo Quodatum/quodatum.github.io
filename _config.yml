@@ -1,6 +1,7 @@
 # _config.yml
 
 title: "Jekyll Actions Demo"
+theme: jekyll-theme-minimal
 lsi: false
 safe: true
 source: docs
